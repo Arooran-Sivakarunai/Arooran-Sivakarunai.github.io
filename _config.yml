@@ -5,7 +5,7 @@ description: WOO
 taglong: My Blog/Cv
 tagshort: WOOOOOOOO
 url: https://arooran-sivakarunai.github.io/
-baseurl: "https://arooran-sivakarunai.github.io/"
+baseurl: ""
 permalink: pretty
 repo: https://github.com/Arooran-Sivakarunai/Arooran-Sivakarunai.github.io
 
