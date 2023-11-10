@@ -1,28 +1,28 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
-baseurl: ""
+title: Arooran Sivakarunai
+description: WOO
+taglong: My Blog/Cv
+tagshort: WOOOOOOOO
+url: https://arooran-sivakarunai.github.io/
+baseurl: "https://arooran-sivakarunai.github.io/"
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/Arooran-Sivakarunai/Arooran-Sivakarunai.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: /assets/jpg/photo.jpg
+  name: Arooran Sivakarunai
+  email: arooransivakarunai@gmail.com
+  photo: /assets/jpg/DITTO.png
 
 # social media links
 
 social:
   facebook: username
-  github: username
+  github: Arooran-Sivakarunai
   instagram: username
-  linkedin: username
+  linkedin: Arooran Sivakarunai
   stackoverflow: 0000000/username
   twitter: username
 
