@@ -1,4 +1,6 @@
-# cvless
+#This Repository Contains Arooran Sivakarunai's Blog!
+
+# This site is built with cvless
 
 Cvless is a theme for static websites built with Jekyll. It aims for simplicity and readability by following best practices of graphic design, like the use of [high contrast](https://www.contrastrebellion.com), [law of proximity](https://lawsofux.com/law-of-proximity), and responsive layout. Its typography is based on the [Piazzolla system](https://piazzolla.huertatipografica.com/), which performs extremely well over a wide range of font sizes.
 
@@ -28,25 +30,7 @@ Fourth, you might want to edit the style variables specified in `_sass/_variable
 
 In addition to these files, you can customize favicons in the `assets` folder. For that, [favicon.io](https://favicon.io/) is an excellent tool. You can also change the particles.js configurations in `assets/json`. The [library homepage](https://vincentgarreau.com/particles.js/) features an interactive tool from which you can export a new configuration.
 
-## Local Development
 
-This repo includes a docker-compose file that allows you to quickly setup a container running Jekyll. If you don't already have Docker and docker-compose installed, you can install them using the following guides from Docker:
-
-**Install Guides**
-* [Docker](https://docs.docker.com/get-docker/)
-* [docker-compose](https://docs.docker.com/compose/install/)
-
-To start the container simply run:
-
-```
-docker-compose up
-```
-
-Alternatively you can run the container without docker-compose using the following command on Mac/Linux:
-
-```
-docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve
-```
 
 ## Credits
 
