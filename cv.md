@@ -5,17 +5,35 @@ title: CV
 
 # Curriculum Vitæ
 
+  
+
 {% include contact.html %}
 
-## Section
+  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## Profile Summary
 
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
+Enthusiastic computer science co-op student at Toronto Metropolitan University. Passionate about machine learning and cyber security fields. I look forward to learning and using new tools and technologies to further myself and my projects.
 
-### Subsection
+### Skills
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* Knowledge of Python, Java, C, Bash and frameworks such as Next.js
+
+* Confidence working in both leadership and team-oriented roles.
+    
+* Problem solving and workshopping solutions to challenging problems.
+    
+* Great sense of time management
+    
+* Passionate about machine learning and creation process
+
+### Awards / Certificates
+
+{WIP}
+  
+### Projects
+
+A list of projects I have completed in the past
+
+{WIP}
+
