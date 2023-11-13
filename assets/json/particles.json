@@ -1,7 +1,7 @@
 {
   "particles": {
     "number": {
-      "value": 40,
+      "value": 20,
       "density": {
         "enable": true,
         "value_area": 1000
@@ -11,7 +11,7 @@
       "value": "#85C7F2"
     },
     "shape": {
-      "type": "triangle"
+      "type": "circle"
     },
     "opacity": {
       "value": 0.5,
@@ -21,7 +21,7 @@
       }
     },
     "size": {
-      "value": 0.1,
+      "value": 4,
       "random": false,
       "anim": {
         "enable": false
@@ -60,7 +60,7 @@
     },
     "modes": {
       "grab": {
-        "distance": 200,
+        "distance": 150,
         "line_linked": {
           "opacity": 1
         }
