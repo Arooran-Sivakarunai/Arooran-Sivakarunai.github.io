@@ -45,7 +45,7 @@ Enthusiastic computer science co-op student at Toronto Metropolitan University. 
 ---------
 
 ### WORK EXPERIENCE
-**Data Quality Specialist**
+**Data Quality Specialist** 
 *Co:here, Toronto, ON.*  | 05/2023 - Present
 -   Annotated large sets with 100+ data points that would directly affect models.
     
@@ -64,7 +64,7 @@ Enthusiastic computer science co-op student at Toronto Metropolitan University. 
 ___
 
 ### VOLUNTEER EXPERIENCE
-**Library Volunteer**
+**Library Volunteer** 
 *Sir John A. Macdonald C.I., Toronto, ON.* | 10/2019 - 05/2021
 
 -   Committed 1 hour weekly over 3 school years to volunteering in the school library.
