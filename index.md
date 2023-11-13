@@ -3,16 +3,28 @@ layout: home
 title: Home
 ---
 
-# About
+# Who am I?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+My Name is Arooran Sivakarunai, a CS student at Toronto Metropolitan University. I'm an avid student of the latest Machine Learning and Cyber Security trends, and hope to go into any of those fields once I graduate. I have a couple of hobbies, such as reading mystery novels, playing video games, and learning to cook new recipes! With this website, I want to use it as a medium to share my ideas with the world. Whether that be through blog posts or people looking at my CV, I want people to gain a better understanding of who I am through this site.
 
-This is the home page. It can be used for a short introduction. [Click here](/cv) to see the full CV, and [here](/cv.pdf) to download a print version. The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found.
+# Fun Facts About Me
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
+- I first got into CS in Grade 9, when in my Exploring Technologies class (TIJ1O1), we used Turing to draw pictures and animations.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- I began learning Python in Grade 9 outside of school, then picked up Java in Grade 10. 
 
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
+- I've attended many events such as...
+    - SpaceApps Waterloo (2019)
+    - Y2 Entrepreneurship Labs (2020)
+    - Hack The North (2021 & 2022)
+    - Methacks (2023)
+
+- I am currently trying to pursue a minor in Cyber Security, alongside a Bachelors in Science at Toronto Metropolitan Univesity for Computer Science.
+
+- My favourite video game is The Legend of Zelda: Breath of the Wild
+
+# My Blog
+
+Below is a list of some posts I have made! They range anywhere from CS topics to some cool ideas that I want to share with the world! I hope you enjoy the reads that I can provide!
 
 {% include archive.html %}
