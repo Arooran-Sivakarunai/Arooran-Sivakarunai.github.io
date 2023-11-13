@@ -1,12 +1,12 @@
 :root {
   --type-serif: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
-  --type-caps: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+  --type-caps: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   --type-mono: "Hack", monospace;
   --type-size: 18px;
   --type-weight: 400;
   --type-height: 1.4;
   --type-numeric: oldstyle-nums proportional-nums;
-  --color-particles-text: var(--oc-particle-color);
+  --color-particles-text: var(--oc-dark-text);
   --color-particles-background: var(--oc-dark-bg);
 }
 
