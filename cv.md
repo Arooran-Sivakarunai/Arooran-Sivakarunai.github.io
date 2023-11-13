@@ -11,12 +11,12 @@ title: CV
 
   
 
-## Professional Summary
+# Professional Summary
 
 Enthusiastic computer science co-op student at Toronto Metropolitan University. Passionate about machine learning and cyber security fields. I look forward to learning and using new tools and technologies to further myself and my projects.
 
   ---------
-### Skills
+## Skills
 
 * Knowledge of languages like Python, Java, C, Bash, and CommonLisp
 
@@ -32,7 +32,7 @@ Enthusiastic computer science co-op student at Toronto Metropolitan University. 
 **Technical Skills**: Python,  Java, C, Bash, CommonLisp, Microsoft Office, Next.Js, Web Development, Jekyll
 
 ---------
-### EDUCATION
+## Education
 
 **Bachelor of Science (BSc):  Computer Science**
 *Toronto Metropolitan University, Toronto, ON*   |  08/2022 - Exp 2027 
@@ -44,7 +44,7 @@ Enthusiastic computer science co-op student at Toronto Metropolitan University. 
 
 ---------
 
-### WORK EXPERIENCE
+## Work Experience
 **Data Quality Specialist** 
 *Co:here, Toronto, ON.*  | 05/2023 - Present
 -   Annotated large sets with 100+ data points that would directly affect models.
@@ -63,7 +63,7 @@ Enthusiastic computer science co-op student at Toronto Metropolitan University. 
 -   Increased the sale of charity and promotional Items by 10% during seasonal events.
 ___
 
-### VOLUNTEER EXPERIENCE
+## Volunteer Experience
 **Library Volunteer** 
 *Sir John A. Macdonald C.I., Toronto, ON.* | 10/2019 - 05/2021
 
@@ -73,7 +73,7 @@ ___
 
 
 ___
-### Awards / Certificates
+## Awards / Certificates
 
 - **Sprout Case Competition - Certificate of Participation** (2023)
 	- Recognized by the Toronto Metropolitan University Society of Arts, Social Sciences, & Humanities for participation in the Sprout Case Competition.
@@ -85,7 +85,7 @@ ___
 	- Recognized by Licensed to Learn for completion of basic tutoring course.
 
 ___
-### Projects
+## Projects
 
 **Here is a list of Projects I have worked on in the past** 
 
