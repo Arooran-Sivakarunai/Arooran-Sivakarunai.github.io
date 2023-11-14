@@ -89,4 +89,10 @@ ___
 
 **Here is a list of Projects I have worked on in the past** 
 
-{% include projects.html %}
+## [ECLEC.TECH](https://github.com/Arooran-Sivakarunai/Eclec.tech) : A Hackathon Project I made at MetHacks, designed to help others make smart fashion choices!<br>
+
+## [My Blog](https://arooran-sivakarunai.github.io/) : The Home of My Blog, where I get to share my creations with the world!<br>
+
+
+
+
