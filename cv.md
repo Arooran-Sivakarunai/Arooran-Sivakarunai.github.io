@@ -75,6 +75,9 @@ ___
 ___
 ## Awards / Certificates
 
+- **Scotia Bank Career Builder Program - Certificate of Completion** (2023)
+	- Recognized by the Toronto Metropolitan University Career, Co-op & Student Success Centre for completion of the Scotiabank Career Builder Program.
+
 - **Sprout Case Competition - Certificate of Participation** (2023)
 	- Recognized by the Toronto Metropolitan University Society of Arts, Social Sciences, & Humanities for participation in the Sprout Case Competition.
 
