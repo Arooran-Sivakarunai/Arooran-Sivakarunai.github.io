@@ -89,4 +89,4 @@ ___
 
 **Here is a list of Projects I have worked on in the past** 
 
-{WIP}
+{% include projects.html %}
