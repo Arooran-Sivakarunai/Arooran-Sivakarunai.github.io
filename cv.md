@@ -29,7 +29,7 @@ Enthusiastic computer science co-op student at Toronto Metropolitan University. 
 * Passionate about machine learning and cyber security
 
 
-**Technical Skills**: Python,  Java, C, Bash, CommonLisp, Microsoft Office, Next.Js, Web Development, Jekyll
+**Technical Skills**: Python, Java, C, Bash, Linux Development, CommonLisp, Microsoft Office, Next.Js, Web Development, Jekyll
 
 ---------
 ## Education
