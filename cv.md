@@ -3,7 +3,7 @@ layout: cv
 title: CV
 ---
 
-# Curriculum Vitæ
+# Curriculum Vitae
 
   
 
